@@ -40,6 +40,7 @@ p {
   transform: translate(0px);
   opacity: 100%;
   color: red;
+  margin-right: 10px;
 }
 
 .parola2 {
@@ -49,6 +50,7 @@ p {
   transform: translate(0px);
   opacity: 100%;
   color: orange;
+  margin-right: 10px;
 }
 .parola3 {
   animation-duration: 8s;
